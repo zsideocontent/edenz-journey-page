@@ -65,7 +65,7 @@ const Features = () => {
             Comprehensive Study Abroad Services
           </h2>
           <p className="text-gray-600 text-lg">
-            Edenz Consultant offers end-to-end support for your international education journey, 
+            Edenz Consultants Immigration offers end-to-end support for your international education journey, 
             from university selection to post-arrival assistance.
           </p>
         </div>

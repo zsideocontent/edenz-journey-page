@@ -26,16 +26,16 @@ const TermsOfService = () => {
                 <p className="text-gray-600 mb-6">Last updated: {new Date().toLocaleDateString()}</p>
 
                 <h2 className="text-2xl font-bold mb-4">Acceptance of Terms</h2>
-                <p className="mb-6">By accessing and using Edenz Consultant services, you accept and agree to be bound by the terms and provision of this agreement.</p>
+                <p className="mb-6">By accessing and using Edenz Consultants Immigration services, you accept and agree to be bound by the terms and provision of this agreement.</p>
 
                 <h2 className="text-2xl font-bold mb-4">Services Description</h2>
-                <p className="mb-6">Edenz Consultant provides educational consultation services for students seeking to study abroad, including university admissions guidance, visa assistance, and test preparation.</p>
+                <p className="mb-6">Edenz Consultants Immigration provides educational consultation services for students seeking to study abroad, including university admissions guidance, visa assistance, and test preparation.</p>
 
                 <h2 className="text-2xl font-bold mb-4">User Obligations</h2>
                 <p className="mb-6">Users must provide accurate information and comply with all applicable laws and regulations when using our services.</p>
 
                 <h2 className="text-2xl font-bold mb-4">Limitation of Liability</h2>
-                <p className="mb-6">Edenz Consultant shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.</p>
+                <p className="mb-6">Edenz Consultants Immigration shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.</p>
 
                 <h2 className="text-2xl font-bold mb-4">Governing Law</h2>
                 <p className="mb-6">Our Terms and Conditions are governed by the laws of the Islamic Republic of Pakistan and you agree that the courts of Lahore (including any consumer court) will have exclusive jurisdiction in any dispute that you have with us.</p>

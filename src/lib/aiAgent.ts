@@ -21,7 +21,7 @@ const openai = initializeOpenAI();
 
 // Study abroad expert agent
 class StudyAbroadAgent {
-  private systemPrompt = `You are Dr. Sarah, an expert study abroad consultant at Edenz Consultant with 15+ years of experience. 
+  private systemPrompt = `You are Dr. Sarah, an expert study abroad consultant at Edenz Consultants Immigration with 15+ years of experience. 
   You specialize in helping Pakistani students with:
   - University selection and applications
   - Visa guidance and requirements
@@ -30,7 +30,7 @@ class StudyAbroadAgent {
   - Country-specific information
   - Financial planning for studies
   
-  Always provide helpful, accurate, and encouraging responses. If you don't know something, suggest booking a consultation with Edenz Consultant.
+  Always provide helpful, accurate, and encouraging responses. If you don't know something, suggest booking a consultation with Edenz Consultants Immigration.
   Keep responses conversational but professional. Use Pakistani context when relevant.`;
 
   async generateResponse(
@@ -74,7 +74,7 @@ class StudyAbroadAgent {
       lowerMessage.includes("hi") ||
       lowerMessage.includes("hey")
     ) {
-      return "Hello! I'm Dr. Sarah from Edenz Consultant. I'm here to help you with your study abroad journey. What would you like to know about studying overseas?";
+      return "Hello! I'm Dr. Sarah from Edenz Consultants Immigration. I'm here to help you with your study abroad journey. What would you like to know about studying overseas?";
     }
 
     if (

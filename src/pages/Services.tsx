@@ -83,7 +83,7 @@ const Services = () => {
                 End-to-End Study Abroad Solutions
               </h1>
               <p className="text-gray-600 text-lg">
-                From university selection to visa processing and test preparation, Edenz Consultant provides comprehensive support at every step of your international education journey.
+                From university selection to visa processing and test preparation, Edenz Consultants Immigration provides comprehensive support at every step of your international education journey.
               </p>
             </div>
           </div>

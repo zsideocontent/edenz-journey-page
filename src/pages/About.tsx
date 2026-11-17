@@ -20,7 +20,7 @@ const About = () => {
                   Meet Our CEO
                 </h1>
                 <p className="text-gray-600 text-lg max-w-3xl mx-auto">
-                  Leading Edenz Consultant with vision, expertise, and a commitment to student success in international education.
+                  Leading Edenz Consultants Immigration with vision, expertise, and a commitment to student success in international education.
                 </p>
               </div>
               
@@ -41,15 +41,15 @@ const About = () => {
                     
                     <div className="space-y-4 text-gray-600">
                       <p>
-                        Dr. Taimoor Ali Ahmad is the visionary founder and CEO of Edenz Consultant, with over two decades of experience in international education consulting. His passion for helping Pakistani students achieve their global education dreams has been the driving force behind Edenz Consultant's success.
+                        Dr. Taimoor Ali Ahmad is the visionary founder and CEO of Edenz Consultants Immigration, with over two decades of experience in international education consulting. His passion for helping Pakistani students achieve their global education dreams has been the driving force behind Edenz Consultants Immigration's success.
                       </p>
                       
                       <p>
-                        Under his leadership, Edenz Consultant has successfully guided thousands of students to prestigious universities across the globe. Dr. Ahmad's deep understanding of international education systems and visa processes has made him a trusted advisor for students and parents alike.
+                        Under his leadership, Edenz Consultants Immigration has successfully guided thousands of students to prestigious universities across the globe. Dr. Ahmad's deep understanding of international education systems and visa processes has made him a trusted advisor for students and parents alike.
                       </p>
                       
                       <p>
-                        His commitment to excellence and student-first approach continues to shape Edenz Consultant's mission of making quality international education accessible to Pakistani students.
+                        His commitment to excellence and student-first approach continues to shape Edenz Consultants Immigration's mission of making quality international education accessible to Pakistani students.
                       </p>
                     </div>
                     
@@ -82,7 +82,7 @@ const About = () => {
                   What Drives Us Every Day
                 </h2>
                 <p className="text-gray-600 text-lg">
-                  At Edenz Consultant, our core values guide every interaction and decision we make while helping students navigate their international education journey.
+                  At Edenz Consultants Immigration, our core values guide every interaction and decision we make while helping students navigate their international education journey.
                 </p>
               </div>
               

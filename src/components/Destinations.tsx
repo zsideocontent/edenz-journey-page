@@ -112,7 +112,7 @@ const Destinations = () => {
             Explore popular countries for international education with world-class universities and diverse courses.
           </p>
           <p className="text-gray-600 text-lg">
-            At Edenz Consultant, we provide comprehensive education consultancy services for students aspiring to study anywhere in the world. Beyond the destinations shown below, we assist with admissions to universities in over 30 countries globally.
+            At Edenz Consultants Immigration, we provide comprehensive education consultancy services for students aspiring to study anywhere in the world. Beyond the destinations shown below, we assist with admissions to universities in over 30 countries globally.
           </p>
         </div>
 

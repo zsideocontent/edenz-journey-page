@@ -9,21 +9,21 @@ const testimonials = [
     name: 'Sarah Johnson',
     title: 'Master\'s in Business Analytics, Harvard University',
     image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1964',
-    content: 'Edenz Consultant was instrumental in my journey to Harvard. Their personalized guidance and attention to detail made the complex application process smooth and successful. I couldn\'t be more grateful!'
+    content: 'Edenz Consultants Immigration was instrumental in my journey to Harvard. Their personalized guidance and attention to detail made the complex application process smooth and successful. I couldn\'t be more grateful!'
   },
   {
     id: 2,
     name: 'Michael Chen',
     title: 'Computer Science, University of Toronto',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974',
-    content: 'Thanks to Edenz Consultant, my dream of studying in Canada became a reality. Their expert visa guidance and university selection advice were invaluable. Highly recommend their professional services!'
+    content: 'Thanks to Edenz Consultants Immigration, my dream of studying in Canada became a reality. Their expert visa guidance and university selection advice were invaluable. Highly recommend their professional services!'
   },
   {
     id: 3,
     name: 'Priya Sharma',
     title: 'PhD in Biotechnology, University of Melbourne',
     image: 'https://images.unsplash.com/photo-1611432579699-484f7990b127?q=80&w=1770',
-    content: 'The team at Edenz Consultant went above and beyond to help me secure a scholarship for my PhD program. Their expertise and commitment to student success is truly exceptional.'
+    content: 'The team at Edenz Consultants Immigration went above and beyond to help me secure a scholarship for my PhD program. Their expertise and commitment to student success is truly exceptional.'
   }
 ];
 
@@ -49,7 +49,7 @@ const Testimonials = () => {
             What Our Students Say
           </h2>
           <p className="text-gray-600 text-lg">
-            Hear from students who successfully achieved their study abroad dreams with Edenz Consultant.
+            Hear from students who successfully achieved their study abroad dreams with Edenz Consultants Immigration.
           </p>
         </div>
         

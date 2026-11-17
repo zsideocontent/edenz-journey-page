@@ -36,7 +36,7 @@ const RefundPolicy = () => {
                   1. Service Nature
                 </h2>
                 <p className="mb-6">
-                  Edenz Consultant provides professional education consultancy
+                  Edenz Consultants Immigration provides professional education consultancy
                   and visa guidance services. Our work includes counselling,
                   documentation assistance, application preparation, university
                   submission support, and visa guidance. Because these are
@@ -84,7 +84,7 @@ const RefundPolicy = () => {
                     has started yet</strong> — meaning no consultation delivered,
                   no documents collected, no application guidance provided —
                   you may request a cancellation. Approval of such a refund is
-                  at the discretion of Edenz Consultant and may be subject to
+                  at the discretion of Edenz Consultants Immigration and may be subject to
                   an administrative deduction/processing fee.
                 </p>
 
@@ -107,14 +107,14 @@ const RefundPolicy = () => {
                 </p>
                 <p className="mb-6">
                   are strictly <strong>non-refundable</strong> because they are
-                  paid to third parties, not to Edenz Consultant.
+                  paid to third parties, not to Edenz Consultants Immigration.
                 </p>
 
                 <h2 className="text-2xl font-bold mb-4">
                   5. Chargebacks / Disputes
                 </h2>
                 <p className="mb-6">
-                  By making a payment to Edenz Consultant, you acknowledge and
+                  By making a payment to Edenz Consultants Immigration, you acknowledge and
                   agree to our service-based fee structure. Because services
                   begin immediately (consultation, guidance, application
                   review), attempting to reverse or dispute a legitimate,
@@ -123,7 +123,7 @@ const RefundPolicy = () => {
                   considered an unauthorized chargeback.
                 </p>
                 <p className="mb-6">
-                  In the event of an unauthorized chargeback, Edenz Consultant
+                  In the event of an unauthorized chargeback, Edenz Consultants Immigration
                   reserves the right to:
                 </p>
                 <ul className="list-disc pl-6 mb-6">
@@ -138,7 +138,7 @@ const RefundPolicy = () => {
                 <p className="mb-6">
                   Visa approval is fully controlled by the respective embassy,
                   consulate, or immigration authority of the destination
-                  country. Edenz Consultant cannot influence their decision.
+                  country. Edenz Consultants Immigration cannot influence their decision.
                   Therefore, <strong>no refund</strong> will be issued on the
                   basis of a visa refusal, delay, or additional document
                   request from immigration.
@@ -148,7 +148,7 @@ const RefundPolicy = () => {
                   7. Refund Turnaround Time
                 </h2>
                 <p className="mb-6">
-                  If a refund request is approved by Edenz Consultant, the refund will be processed within <strong>10-15 business days</strong>. The amount will be credited back to the original method of payment or via bank transfer, as applicable.
+                  If a refund request is approved by Edenz Consultants Immigration, the refund will be processed within <strong>10-15 business days</strong>. The amount will be credited back to the original method of payment or via bank transfer, as applicable.
                 </p>
 
                 <h2 className="text-2xl font-bold mb-4">

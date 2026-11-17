@@ -97,7 +97,7 @@ function generateResponse(message: string): string {
   
   // General greeting responses
   if (lowerMessage.includes('hello') || lowerMessage.includes('hi') || lowerMessage.includes('hey')) {
-    return "Hello! Welcome to Edenz Consultant. I'm here to help you with your study abroad journey. I can provide information about:\n\n• Study destinations and universities\n• Visa requirements and processes\n• Test preparation (IELTS, TOEFL, GRE, GMAT)\n• Scholarships and funding\n• Application procedures\n\nWhat would you like to know about?";
+    return "Hello! Welcome to Edenz Consultants Immigration. I'm here to help you with your study abroad journey. I can provide information about:\n\n• Study destinations and universities\n• Visa requirements and processes\n• Test preparation (IELTS, TOEFL, GRE, GMAT)\n• Scholarships and funding\n• Application procedures\n\nWhat would you like to know about?";
   }
   
   // Default responses for general queries

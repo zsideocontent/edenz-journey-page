@@ -22,7 +22,7 @@ const Hero = () => {
             </h1>
 
             <p className="text-lg text-gray-600 md:pr-10">
-              Edenz Consultant is Pakistan's leading study abroad consultancy, helping students with university admissions, visa processing, and test preparation for IELTS, PTE, TOEFL, GRE, GMAT and more.
+              Edenz Consultants Immigration is Pakistan's leading study abroad consultancy, helping students with university admissions, visa processing, and test preparation for IELTS, PTE, TOEFL, GRE, GMAT and more.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4">

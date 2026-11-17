@@ -1,6 +1,6 @@
 
 /**
- * Utility function to fetch the Edenz Consultants logo from the original source
+ * Utility function to fetch the Edenz Consultants Immigration logo from the original source
  * and save it to the public directory
  */
 

@@ -95,7 +95,7 @@ const GRE = () => {
                         <div className="text-center bg-primary rounded-3xl p-12 text-white">
                             <h2 className="text-3xl md:text-4xl font-bold mb-6">Get Grad School Ready</h2>
                             <p className="text-white/90 text-lg mb-8 max-w-2xl mx-auto">
-                                Prepare with the best to get into the best. Start your GRE journey with Edenz Consultant.
+                                Prepare with the best to get into the best. Start your GRE journey with Edenz Consultants Immigration.
                             </p>
                             <div className="flex flex-col sm:flex-row gap-4 justify-center">
                                 <Link to="/test-prep-checkout?service=gre">

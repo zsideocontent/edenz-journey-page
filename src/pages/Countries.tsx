@@ -361,7 +361,7 @@ const Countries = () => {
                 Discover the perfect country for your international education journey with our comprehensive guide to top study destinations.
               </p>
               <p className="text-gray-600 text-lg">
-                At Edenz Consultant, we provide extensive support for students aspiring to study in any country worldwide. Our expertise extends beyond the featured destinations below to include consultancy services for over 30 countries globally.
+                At Edenz Consultants Immigration, we provide extensive support for students aspiring to study in any country worldwide. Our expertise extends beyond the featured destinations below to include consultancy services for over 30 countries globally.
               </p>
             </div>
           </div>

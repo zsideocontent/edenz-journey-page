@@ -103,7 +103,7 @@ const Contact = () => {
                     allowFullScreen={true}
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="Edenz Consultant Office Location"
+                    title="Edenz Consultants Immigration Office Location"
                   ></iframe>
                 </div>
               </div>

@@ -14,7 +14,7 @@ const ServiceFeeNotice = () => {
           </h3>
 
           <p className="text-base text-gray-700 mb-5 leading-relaxed">
-            Edenz Consultant does not charge a single fixed “one size fits all” fee.
+            Edenz Consultants Immigration does not charge a single fixed “one size fits all” fee.
             Each student’s case is unique — the <strong>destination country</strong>,
             <strong> program type</strong>, <strong>academic profile</strong>, and
             <strong> visa category</strong> all influence the level of effort and
