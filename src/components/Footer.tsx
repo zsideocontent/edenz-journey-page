@@ -13,7 +13,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-6">
               <span className="text-primary font-medium mr-1">Edenz</span>
-              <span className="font-medium">Consultants Immigration</span>
+              <span className="font-medium">Consultants Immigration (Private) Limited</span>
             </div>
             <p className="text-gray-400 mb-6 text-left">
               Pakistan's leading study abroad consultancy helping students achieve their global education dreams with personalized guidance, visa processing, and test preparation.

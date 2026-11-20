@@ -51,7 +51,7 @@ const Navbar = () => {
               />
               <div className="hidden sm:block">
                 <span className="text-primary font-bold mr-1">Edenz</span>
-                <span className="text-foreground font-bold">Consultants Immigration</span>
+                <span className="text-foreground font-bold">Consultants Immigration (Private) Limited</span>
               </div>
             </Link>
           </div>
